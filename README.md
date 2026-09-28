@@ -34,3 +34,4 @@ To enable granular temporal, seasonal, and spatial modeling, the data pipeline e
 * **Primary Notebook:** `hpd_analysis.ipynb`[cite: 1]
 * **Data Source:** `NIBRSPublicView2025_Divisions.parquet`[cite: 1]
 * **Python Environment:** Managed via virtual environment (`.venv`) utilizing standard data science libraries (`pandas`, `numpy`, `matplotlib`, `seaborn`, `pyarrow`).
+
